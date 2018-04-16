@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1523787020442" ID="ID_904794008" MODIFIED="1523787224667" TEXT="&#x7cfb;&#x7edf;&#x6548;&#x7387;&#xff1a;&#x5c0f;&#x7c73;&#x7684;&#x6548;&#x7387;&#x9769;&#x547d;">
+<node CREATED="1523787020442" ID="ID_904794008" MODIFIED="1523851106283" TEXT="&#x7cfb;&#x7edf;&#x6548;&#x7387;&#xff1a;&#x5c0f;&#x7c73;&#x7684;&#x6548;&#x7387;&#x9769;&#x547d;">
 <node CREATED="1523787124774" ID="ID_1745164286" MODIFIED="1523787125427" POSITION="right" TEXT="&#x505a;&#x4ea7;&#x54c1;&#x662f;&#x5efa;&#x8bbe;&#x4e00;&#x5957;&#x7cfb;&#x7edf;&#x80fd;&#x529b;&#xff0c;&#x63d0;&#x4f9b;&#x5e76;&#x4fdd;&#x969c;&#x786e;&#x5b9a;&#x6027;&#xff0c;&#x800c;&#x6548;&#x7387;&#x5219;&#x662f;&#x8fd9;&#x4e2a;&#x7cfb;&#x7edf;&#x80fd;&#x529b;&#x7684;&#x4e00;&#x4e2a;&#x6838;&#x5fc3;&#x6307;&#x6807;"/>
 <node CREATED="1523787132318" ID="ID_695007168" MODIFIED="1523787132987" POSITION="right" TEXT="&#x4e92;&#x8054;&#x7f51;&#x601d;&#x7ef4;&#x91cc;&#x6700;&#x5173;&#x952e;&#x7684;&#x662f;&#x4e24;&#x4e2a;&#x70b9;">
 <node CREATED="1523787140590" ID="ID_45785492" MODIFIED="1523787141026" TEXT="&#x7b2c;&#x4e00;&#x662f;&#x7528;&#x6237;&#x4f53;&#x9a8c;"/>
