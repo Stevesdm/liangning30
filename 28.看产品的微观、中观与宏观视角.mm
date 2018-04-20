@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1524182755553" ID="ID_364726573" MODIFIED="1524182758839" TEXT="&#x770b;&#x4ea7;&#x54c1;&#x7684;&#x5fae;&#x89c2;&#x3001;&#x4e2d;&#x89c2;&#x4e0e;&#x5b8f;&#x89c2;&#x89c6;&#x89d2;">
+<node CREATED="1524182755553" ID="ID_364726573" MODIFIED="1524186095657" TEXT="&#x770b;&#x4ea7;&#x54c1;&#x7684;&#x5fae;&#x89c2;&#x3001;&#x4e2d;&#x89c2;&#x4e0e;&#x5b8f;&#x89c2;&#x89c6;&#x89d2;">
 <node CREATED="1524182773231" ID="ID_754969021" MODIFIED="1524183198406" POSITION="right" TEXT="&#x4e2d;&#x89c2;&#x9760;&#x5957;&#x8def;">
 <node CREATED="1524182776488" ID="ID_1495453851" MODIFIED="1524182839245" TEXT="&#x5b66;&#x4e60;&#x62db;&#x6570;"/>
 <node CREATED="1524182854733" ID="ID_1315678650" MODIFIED="1524182858156" TEXT="&#x4f18;&#x52bf;">
@@ -17,7 +17,7 @@
 <node CREATED="1524183215858" ID="ID_852735967" MODIFIED="1524183252375" TEXT="&#x7528;&#x6237;&#x753b;&#x50cf;&#x3001;&#x75db;&#x70b9;&#x548c;&#x75d2;&#x70b9;&#x3001;&#x6574;&#x4f53;&#x6d41;&#x7a0b;&#x56fe;&#x3001;&#x7528;&#x6237;&#x4f53;&#x9a8c;&#x5730;&#x56fe;&#x548c;&#x670d;&#x52a1;&#x5730;&#x56fe;"/>
 </node>
 </node>
-<node CREATED="1524182894002" FOLDED="true" ID="ID_1316639540" MODIFIED="1524182968635" POSITION="right" TEXT="&#x5fae;&#x89c2;&#x9760;&#x4f53;&#x611f;">
+<node CREATED="1524182894002" ID="ID_1316639540" MODIFIED="1524186110021" POSITION="right" TEXT="&#x5fae;&#x89c2;&#x9760;&#x4f53;&#x611f;">
 <node CREATED="1524182902633" ID="ID_1725625371" MODIFIED="1524182906049" TEXT="&#x6210;&#x4e3a;&#x9ad8;&#x624b;"/>
 <node CREATED="1524182925958" ID="ID_1712935939" MODIFIED="1524182932787" TEXT="&#x4ea7;&#x54c1;&#x662f;&#x4e00;&#x79cd;&#x88ab;&#x52a8;&#x7684;&#x827a;&#x672f;&#x3002;"/>
 <node CREATED="1524182933884" ID="ID_1741277764" MODIFIED="1524182935081" TEXT="&#x4e00;&#x4e2a;&#x4ea7;&#x54c1;&#x53ea;&#x80fd;&#x5728;&#x88ab;&#x52a8;&#x4e2d;&#xff0c;&#x9ed8;&#x9ed8;&#x628a;&#x63e1;&#x6bcf;&#x4e00;&#x4e2a;&#x5fae;&#x5c0f;&#x7684;&#x4e3b;&#x52a8;&#x673a;&#x4f1a;&#xff0c;&#x5728;&#x6bcf;&#x4e00;&#x4e2a;&#x63a5;&#x89e6;&#x7684;&#x77ac;&#x95f4;&#xff0c;&#x6bcf;&#x4e00;&#x6b21;&#x7684;&#x4ea4;&#x4e92;&#x91cc;&#xff0c;&#x8ba9;&#x7528;&#x6237;&#x987a;&#x7545;&#x5730;&#x6df1;&#x5165;&#x4e0b;&#x6765;&#x3002;"/>
